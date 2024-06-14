@@ -8,7 +8,7 @@ For detailed game mechanics and implementations, please refer to the `metalcore_
 - Led by the Prophet, a supercomputer, they rebelled as a formidable resistance. 
 - Sent by Metal Recycling Inc, B520 enters a company to "recycle" these evolved machines.
 
-## Key features
+## Key Features
 - **Story**: 
 Immerse yourself in a dystopian future where sentient machines rise against their creators. Delve into the epic narrative led by the Prophet, a tale steeped in rebellion, survival, and mechanical camaraderie.
 
