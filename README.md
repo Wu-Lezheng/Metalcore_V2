@@ -9,17 +9,17 @@ For detailed game mechanics and implementations, please refer to the `metalcore_
 - Sent by Metal Recycling Inc, B520 enters a company to "recycle" these evolved machines.
 
 ## Key features
-- Story: 
+- **Story**: 
 Immerse yourself in a dystopian future where sentient machines rise against their creators. Delve into the epic narrative led by the Prophet, a tale steeped in rebellion, survival, and mechanical camaraderie.
 
-- Polished UI and materials
+- **Polished UI and materials:**
 Experience a sleek, user-friendly interface designed to augment your gameplay. The materials and textures in the game are meticulously crafted, offering a visually stunning and intuitive gaming experience.
 
-- Permanent upgrades
+- **Permanent upgrades:**
 Enhance your gameplay with enduring upgrades. These improvements persist across sessions, enabling you to progressively build a more formidable and resilient character, tailored to your playing style.
 
-- Temporary upgrades
+- **Temporary upgrades:**
 Add variety to each gaming session with transient boosts. These upgrades offer short-term advantages, providing a dynamic and ever-evolving approach to combat and strategy within each level.
 
-- Weapon upgrades
+- **Weapon upgrades:**
 Tailor your arsenal with an array of weapon enhancements. Boost your firepower, range, and special abilities for a more personalised and effective approach in combat against the rebellious machines.
